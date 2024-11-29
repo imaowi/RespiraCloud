@@ -1,0 +1,9 @@
+# basic
+pandas
+
+# visualization
+plotly
+dash
+
+# deploy
+gunicorn
